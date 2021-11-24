@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Your_/Desktop/ATSP1/main.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+chrono
+-
+ctime
+-
+pugixml.hpp
+C:/Users/Your_/Desktop/ATSP1/pugixml.hpp
+
+C:/Users/Your_/Desktop/ATSP1/pugixml.hpp
+../pugixml-1.11/src/pugiconfig.hpp
+C:/Users/Your_/Desktop/pugixml-1.11/src/pugiconfig.hpp
+stddef.h
+-
+exception
+-
+iterator
+-
+iosfwd
+-
+string
+-
+
+C:/Users/Your_/Desktop/pugixml-1.11/src/pugiconfig.hpp
+
