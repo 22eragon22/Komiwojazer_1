@@ -1,0 +1,3 @@
+C:/Users/Your_/Desktop/ATSP1/cmake-build-debug/CMakeFiles/ATSP1.dir
+C:/Users/Your_/Desktop/ATSP1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Your_/Desktop/ATSP1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
