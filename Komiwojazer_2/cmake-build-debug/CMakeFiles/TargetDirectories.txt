@@ -1,0 +1,3 @@
+C:/Users/Your_/Desktop/Komiwojazer_2/cmake-build-debug/CMakeFiles/Komiwojazer_2.dir
+C:/Users/Your_/Desktop/Komiwojazer_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Your_/Desktop/Komiwojazer_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
